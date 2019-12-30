@@ -1,10 +1,7 @@
 import os
-import sys
 import time
 import json
 
-from datetime import timedelta
-from timeloop import Timeloop
 from datetime import datetime
 from PIL import ImageFont, Image
 from helpers import get_device
